@@ -1,2 +1,37 @@
-Thais couis is a file that
-arvind
+HtML:
+
+Its a markup language which is used to describe static web pages.
+
+FrontEnd and Backend:
+
+Front End:
+
+User Interface and User Interactivity.
+
+HTML  - Describe Web Pages.
+
+Css   -Design of Web Pages.
+
+JavaScprit - Make Web pages dynamic.
+
+BootStrip- Accekerates Designing of web pages with readymade CSS Snippets.
+
+TypeScript /Angular - Accelerates Development of web application processing.
+
+Backend:
+
+Data processing
+
+Node. JS- Runtime environment for running JavaScprit code on server side.
+
+Experess.JS - Developing WEB services .
+
+MongoDB- Database for storing the data .
+
+
+
+
+
+
+
+
